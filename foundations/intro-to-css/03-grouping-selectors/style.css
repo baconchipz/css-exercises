@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.digger, .wigger {
+    font-size: 28px;
+    font: "Helvetica" "Times New Roman" sans-serif;
+}
+.digger {
+    background-color: black;
+    color: white;
+}
+
+.wigger {
+    background-color: yellow;
+}
+/* "Helvetica" and "Times New Roman", with "sans-serif" as a fallback */
